@@ -1,5 +1,6 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
+import os
 
 def setup_driver(driver_path):
     return webdriver.Chrome(executable_path=driver_path)
@@ -30,7 +31,10 @@ def extract_requirements(soup, name_attribute):
             requirements.extend([li.get_text(strip=True) for li in ul.find_all('li')])
     return requirements
 
-def scrape_all_majors(driver_path, url):
+def scrape_all_majors(driver_path, url, folder_name):
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+
     driver = setup_driver(driver_path)
     soup = get_soup(driver, url)
     colleges = extract_colleges(soup)
@@ -46,7 +50,8 @@ def scrape_all_majors(driver_path, url):
             general_requirements = extract_requirements(new_soup, 'generalrequirements')
             course_requirements = extract_requirements(new_soup, 'courserequirements')
             
-            file_name = f"{major_name}_CODO.txt".replace('/', '_').replace(' ', '_')
+            # file_name = os.path.join(folder_name, f"{major_name}_CODO.txt").replace('/', '_').replace(' ', '_')
+            file_name = os.path.join(folder_name, f"{major_name.replace('/', '_').replace(' ', '_')}_CODO.txt")
             with open(file_name, 'w') as file:
                 file.write(f"General Requirements:\n")
                 file.writelines([f"{req}\n" for req in general_requirements])
@@ -61,4 +66,5 @@ def scrape_all_majors(driver_path, url):
 # Example usage
 driver_path = '/usr/local/bin/chromedriver'
 url = "https://catalog.purdue.edu/content.php?catoid=15&navoid=19105"
-scrape_all_majors(driver_path, url)
+folder_name = "Purdue_Majors_CODOs"
+scrape_all_majors(driver_path, url, folder_name)
