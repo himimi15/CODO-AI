@@ -1,0 +1,17 @@
+General Requirements:
+Minimum Semesters:  2
+Minimum West Lafayette Credit Hours:  30
+Minimum GPA:  2.8
+
+Course Requirements:
+CHM 11500 - General Chemistry
+CS 15900 - C Programming
+PHYS 17200 - Modern Mechanics
+Oral Communication Foundational Outcome course (typicallyCOM 11400 - Fundamentals Of Speech Communication)
+Written Communication Foundational Outcome course (typicallyENGL 10600 - First-Year Composition)
+
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus I
+
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II

@@ -1,0 +1,25 @@
+General Requirements:
+Minimum Semesters:1
+Minimum West Lafayette Credit Hours:12
+Minimum GPA:2.0
+
+Course Requirements:
+Option 1:A 2.0 or better GPA in at least two graded courses in the approved Calculus sequence I, II and III:
+
+Calculus I
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus Ior
+MA 16010 - Applied Calculus IandMA 16020 - Applied Calculus II
+
+Calculus II
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+Calculus III
+MA 26100 - Multivariate Calculusor
+MA 27101 - Honors Multivariate Calculus
+
+Option 2:B- or better in the following:
+
+MA 41600 - Probabilityor
+STAT 41600 - Probability

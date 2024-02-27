@@ -1,0 +1,22 @@
+General Requirements:
+Minimum Semesters:1
+Minimum West Lafayette Credit Hours:12
+Minimum GPA:2.5
+
+Course Requirements:
+ECON 25100 - Microeconomics(EAI Course)
+ECON 25200 - Macroeconomics(EAI Course)
+
+COM 11400 - Fundamentals Of Speech Communicationor  (EAI Course)
+COM 21700 - Science Writing And Presentationor  (EAI Course)
+EDPS 31500 - Collaborative Leadership: Interpersonal Skillsor  (EAI Course)
+SCLA 10200 - Transformative Texts, Critical Thinking And Communication II: Modern World(EAI Course)
+
+ENGL 10600 - First-Year Compositionor  (EAI Course)
+ENGL 10800 - Accelerated First-Year Compositionor  (EAI Course)
+HONR 19903 - Interdisciplinary Approaches In Writingor  (EAI Course)
+SCLA 10100 - Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity(EAI Course)
+
+MA 16010 - Applied Calculus Ior  (EAI Course)
+MA 16100 - Plane Analytic Geometry And Calculus Ior  (EAI Course)
+MA 16500 - Analytic Geometry And Calculus I(EAI Course)

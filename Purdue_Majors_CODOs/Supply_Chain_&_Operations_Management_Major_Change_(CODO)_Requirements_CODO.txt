@@ -1,0 +1,24 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.5
+
+Course Requirements:
+ECON 25100 - Microeconomics
+
+MGMT 20000 - Introductory Accountingor
+MGMT 21200 - Business Accounting
+
+COM 11400 - Fundamentals Of Speech Communicationor
+COM 21700 - Science Writing And Presentationor
+EDPS 31500 - Collaborative Leadership: Interpersonal Skillsor
+SCLA 10200 - Transformative Texts, Critical Thinking And Communication II: Modern World
+
+ENGL 10600 - First-Year Compositionor
+ENGL 10800 - Accelerated First-Year Compositionor
+HONR 19903 - Interdisciplinary Approaches In Writingor
+SCLA 10100 - Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity
+
+MA 16010 - Applied Calculus Ior
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus I

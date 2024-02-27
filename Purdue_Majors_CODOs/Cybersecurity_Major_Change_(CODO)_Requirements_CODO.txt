@@ -1,0 +1,22 @@
+General Requirements:
+Minimum Semesters:1
+Minimum West Lafayette Credit Hours:9
+Minimum GPA:3.0
+
+Course Requirements:
+CNIT 17600 - Information Technology Architecturesor
+CNIT 18000 - Introduction To Systems Developmentor
+CNIT 18200 - System And Organizational Security
+Note: Must be taken at Purdue West Lafayette or Polytechnic Statewide sites: Anderson, Columbus or Kokomo. CNIT 17600 or CNIT 18200 recommended for students interested in Cybersecurity.
+
+ENGL 10600 - First-Year Compositionor
+ENGL 10800 - Accelerated First-Year Compositionor
+ENGL 11000 - American Language And Culture For International Students Ior
+SCLA 10100 - Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernityor
+HONR 19903 - Interdisciplinary Approaches In Writingor
+COM 11400 - Fundamentals Of Speech Communicationor
+SCLA 10200 - Transformative Texts, Critical Thinking And Communication II: Modern World
+
+MA 16010 - Applied Calculus Ior
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus I

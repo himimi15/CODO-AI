@@ -1,0 +1,31 @@
+General Requirements:
+Minimum Semesters:  1
+Minimum West Lafayette Credit Hours:15
+Minimum GPA:  2.5
+
+Course Requirements:
+CHM 11500 - General Chemistry
+PHYS 17200 - Modern Mechanics
+Science Selective (typicallyCHM 11600 - General ChemistryorCS 15900 - C Programming)
+Oral Communication Foundational Outcome course (typicallyCOM 11400 - Fundamentals Of Speech Communication)
+Written Communication Foundational Outcome course (typicallyENGL 10600 - First-Year Composition)
+
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus I
+
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+One of the following groups:
+ENGR 13100 - Transforming Ideas To Innovation Iand
+ENGR 13200 - Transforming Ideas To Innovation II
+
+ENGR 14100 - Honors Creativity And Innovation In Engineering Design Iand
+ENGR 14200 - Honors Creativity And Innovation In Engineering Design II
+
+ENGR 16100 - Honors Introduction To Innovation And The Physical Science Of Engineering Design Iand
+ENGR 16200 - Honors Introduction To Innovation And The Physical Science Of Engineering Design II
+
+EPCS 11100 - First Year Participation In EPICS Iand
+EPCS 12100 - First Year Participation In EPICS IIand
+ENGR 13300 - Transforming Ideas To Innovation, EPICS
