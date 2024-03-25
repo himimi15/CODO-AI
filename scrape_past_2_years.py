@@ -15,13 +15,8 @@ soup = BeautifulSoup(driver.page_source, 'html.parser')
 base_url = "https://catalog.purdue.edu/"
 links = [(a.text, base_url + a['href']) for a in soup.find_all('a', href=True) if "(CODO) Requirements" in a.text]
 
-# remove the first link 
+# remove the first link (bug)
 links.pop(0)
-# print(links)
-
-# Directory to save the files
-parent_dir = "./CODO_Requirements"
-os.makedirs(parent_dir, exist_ok=True)
 
 def extract_requirements_by_name(soup, name_attribute):
     requirements = []
@@ -32,10 +27,8 @@ def extract_requirements_by_name(soup, name_attribute):
     return requirements
 
 for major_name, link in links:
-    # Use Selenium to navigate to each page because of potential JavaScript rendering
     driver.get(link)
 
-    # Use BeautifulSoup to parse page content
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
     # Extract the required information (Adjust the selectors as needed)
@@ -60,8 +53,5 @@ for major_name, link in links:
         file.write("\nOther Requirements:\n")
         file.writelines([f"{req}\n" for req in other_requirements])
         
-
-# Close the WebDriver
 driver.quit()
-
 print("Data extraction complete.")
