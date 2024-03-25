@@ -1,0 +1,22 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.75
+
+Course Requirements:
+CS 18000 - Problem Solving And Object-Oriented Programming
+
+MA 16100 - Plane Analytic Geometry And Calculus IorMA 16500 - Analytic Geometry And Calculus I
+OR
+MA 16200 - Plane Analytic Geometry And Calculus IIorMA 16600 - Analytic Geometry And Calculus II
+OR
+MA 26100 - Multivariate CalculusorMA 27101 - Honors Multivariate Calculus
+OR
+MA 26500 - Linear AlgebraorMA 35100 - Elementary Linear Algebra
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Students are admitted on a SPACE AVAILABLE BASIS ONLY after a holistic review. Space is available but rigorous.
+Students must be in good academic standing (not on academic probation)
+All CS and Math courses considered for CODO must be taken for a letter grade on a Purdue campus.
+For CODO purposes, only the first or second attempt of a required CS and Math course will be considered. Course withdrawals are included in this requirement.

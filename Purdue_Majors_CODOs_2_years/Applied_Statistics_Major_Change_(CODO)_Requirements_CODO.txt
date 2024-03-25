@@ -1,0 +1,34 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.0
+
+Course Requirements:
+Calculus I
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus Ior
+MA 16010 - Applied Calculus IandMA 16020 - Applied Calculus II
+
+Calculus II
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+Calculus III
+MA 26100 - Multivariate Calculusor
+MA 27101 - Honors Multivariate Calculus
+OR
+B- or better in the following:
+MA 41600 - Probabilityor
+STAT 41600 - Probability
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Major is open with no anticipated space restrictions.
+Students must be in good academic standing (not on academic probation)
+2.5 GPA in any completed course (see below) that meets degree requirements (the courses are not required to CODO):MA 35100 - Elementary Linear AlgebraSTAT 51200 - Applied Regression AnalysisSTAT 35000 - Introduction To Statistics(satisfies Statistics requirement for College of Science core) orSTAT 35500 - Statistics For Data ScienceMA 36200 - Topics In Vector CalculusorSTAT 42000 - Introduction To Time SeriesMA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And ApplicationsSTAT 41700 - Statistical TheoryorSTAT 51700 - Statistical Inference
+MA 35100 - Elementary Linear Algebra
+STAT 51200 - Applied Regression Analysis
+STAT 35000 - Introduction To Statistics(satisfies Statistics requirement for College of Science core) orSTAT 35500 - Statistics For Data Science
+MA 36200 - Topics In Vector CalculusorSTAT 42000 - Introduction To Time Series
+MA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And Applications
+STAT 41700 - Statistical TheoryorSTAT 51700 - Statistical Inference

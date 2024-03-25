@@ -1,0 +1,45 @@
+General Requirements:
+Minimum Semesters:  2
+Minimum Credits:  30
+Minimum GPA:  3.4
+
+Course Requirements:
+CHM 11500 - General Chemistry
+PHYS 17200 - Modern Mechanics
+
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus I
+
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+Oral Communication Foundational Outcome course (typicallyCOM 11400 - Fundamentals Of Speech Communication)
+Written Communication Foundational Outcome course (typicallyENGL 10600 - First-Year Composition)
+
+Other Requirements:
+Students are accepted for FALL and SPRING.
+Students are admitted on a SPACE AVAILABLE BASIS ONLY after a holistic review.  Space is limited.
+Students must be in good academic standing (not on academic probation).
+Students must earn a 3.4 average GPA or higher in any of the following courses completed before CODO:Agricultural & Biological Engineering - ABEBiomedical Engineering - BMEChemical Engineering - CHECivil Engineering - CEConstruction Engineering and Management - CEMElectrical and Computer Engineering - ECEEnvironmental & Ecological Engineering - EEEFirst-Year Engineering - ENGR/FYEIndustrial Engineering - IEMaterials Engineering - MSEMechanical Engineering - MEMultidisciplinary Engineering and Interdisciplinary Engineering Studies - MDE/IDENuclear Engineering - NEAstronomy - ASTRBiology - BIOBiochemistry - BCHMChemistry - CHEMComputer Science - CSEarth, Atmospheric, and Planetary Science - EAPSMathematics - MAPhysics - PHYSStatistics - STAT
+Agricultural & Biological Engineering - ABE
+Biomedical Engineering - BME
+Chemical Engineering - CHE
+Civil Engineering - CE
+Construction Engineering and Management - CEM
+Electrical and Computer Engineering - ECE
+Environmental & Ecological Engineering - EEE
+First-Year Engineering - ENGR/FYE
+Industrial Engineering - IE
+Materials Engineering - MSE
+Mechanical Engineering - ME
+Multidisciplinary Engineering and Interdisciplinary Engineering Studies - MDE/IDE
+Nuclear Engineering - NE
+Astronomy - ASTR
+Biology - BIO
+Biochemistry - BCHM
+Chemistry - CHEM
+Computer Science - CS
+Earth, Atmospheric, and Planetary Science - EAPS
+Mathematics - MA
+Physics - PHYS
+Statistics - STAT

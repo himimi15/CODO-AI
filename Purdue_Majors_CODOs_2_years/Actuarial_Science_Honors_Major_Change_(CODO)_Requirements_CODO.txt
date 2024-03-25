@@ -1,0 +1,44 @@
+General Requirements:
+Minimum Semesters:0
+Minimum Credits:12
+Minimum GPA:2.0
+
+Course Requirements:
+C or better in the following:
+MA 37300 - Financial Mathematics
+A two-course Calculus sequence.
+
+Calculus I
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus Ior
+MA 16010 - Applied Calculus IandMA 16020 - Applied Calculus II
+Calculus II
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+Calculus III
+MA 26100 - Multivariate Calculusor
+MA 27101 - Honors Multivariate Calculus
+
+2.5 or better in the following (if taken):
+ECON 25100 - Microeconomics
+ECON 25200 - Macroeconomics
+MA 35100 - Elementary Linear Algebra
+MA 36600 - Ordinary Differential Equations
+MA 37300 - Financial Mathematics
+MA 41600 - Probability
+MGMT 20000 - Introductory Accounting
+MGMT 20100 - Management Accounting I
+MGMT 31000 - Financial Management
+STAT 41600 - Probability
+STAT 41700 - Statistical Theory
+STAT 42000 - Introduction To Time Series
+STAT 47201 - Actuarial Models- Life Contingencies
+STAT 47301 - Introduction To Arbitrage-Free Pricing Of Financial Derivatives
+STAT 47901 - Short Term Actuarial Models
+STAT 51200 - Applied Regression Analysis
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Major is open with no anticipated space restrictions.
+Students must be in good academic standing (not on academic probation)
+If a student has established credit [AP, IB, etc.] for Calculus 1, 2, and 3 (or beyond), then the student must have a C or better in the next math course in the Actuarial Science major AND a C or higher in MA 37300.

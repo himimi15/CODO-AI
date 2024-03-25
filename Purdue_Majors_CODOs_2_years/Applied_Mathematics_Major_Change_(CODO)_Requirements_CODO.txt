@@ -1,0 +1,34 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.0
+
+Course Requirements:
+Calculus I
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus Ior
+MA 16010 - Applied Calculus IandMA 16020 - Applied Calculus II
+
+Calculus II
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+Calculus III
+MA 26100 - Multivariate Calculusor
+MA 27101 - Honors Multivariate Calculus
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Major is open with no anticipated space restrictions.
+Students must be in good academic standing (not on academic probation)
+2.0 average GPA in any courses completed below (not required to take these courses before CODO):CS 31400 - Numerical MethodsMA 30300 - Differential Equations And Partial Differential Equations For Engineering And The SciencesMA 35100 - Elementary Linear AlgebraorMA 26500 - Linear Algebraif B- or betterMA 35301 - Linear Algebra IIMA 36600 - Ordinary Differential EquationsorMA 26600 - Ordinary Differential Equationsif B- or betterMA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis IMA 45300 - Elements Of Algebra IorMA 45000 - Algebra HonorsMA 36200 - Topics In Vector CalculusorMA 44200 - Honors Real Analysis II3 Credits ofMA 42500 - Elements Of Complex AnalysisorMA 42800 - Introduction To Fourier AnalysisorMA 52300 - Introduction To Partial Differential Equations3 Credits ofMA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And ApplicationsorMA 37500 - Introduction To Discrete MathematicsorMA 42500 - Elements Of Complex AnalysisorMA 42800 - Introduction To Fourier Analysis
+CS 31400 - Numerical Methods
+MA 30300 - Differential Equations And Partial Differential Equations For Engineering And The Sciences
+MA 35100 - Elementary Linear AlgebraorMA 26500 - Linear Algebraif B- or better
+MA 35301 - Linear Algebra II
+MA 36600 - Ordinary Differential EquationsorMA 26600 - Ordinary Differential Equationsif B- or better
+MA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis I
+MA 45300 - Elements Of Algebra IorMA 45000 - Algebra Honors
+MA 36200 - Topics In Vector CalculusorMA 44200 - Honors Real Analysis II
+3 Credits ofMA 42500 - Elements Of Complex AnalysisorMA 42800 - Introduction To Fourier AnalysisorMA 52300 - Introduction To Partial Differential Equations
+3 Credits ofMA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And ApplicationsorMA 37500 - Introduction To Discrete MathematicsorMA 42500 - Elements Of Complex AnalysisorMA 42800 - Introduction To Fourier Analysis
