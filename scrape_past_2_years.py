@@ -6,7 +6,7 @@ import time
 driver_path = '/usr/local/bin/chromedriver'
 driver = webdriver.Chrome(executable_path=driver_path)
 
-url = "https://catalog.purdue.edu/content.php?catoid=13&navoid=16478"
+url = "https://catalog.purdue.edu/content.php?catoid=14&navoid=17003"
 driver.get(url)
 
 # Find all links containing "(CODO) Requirements"

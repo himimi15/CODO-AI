@@ -1,0 +1,23 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.0
+
+Course Requirements:
+2.7 or better in two courses in an approved Calculus sequence I, II and III (transfer credit may be used)
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Major is open with no anticipated space restrictions.
+Students must be in good academic standing (not on academic probation)
+2.0 average GPA in any courses completed below (not required to take these courses before CODO):MA 35100 - Elementary Linear AlgebraorMA 26500 - Linear Algebraif B- or betterMA 35301 - Linear Algebra IISTAT 35000 - Introduction To Statistics(satisfies Statistics Requirement for College of Science core)STAT 51200 - Applied Regression AnalysisMA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis IMA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And ApplicationsSTAT 41700 - Statistical TheoryorSTAT 51700 - Statistical InferenceMA 42500 - Elements Of Complex AnalysisOne of the following:MA 26600 - Ordinary Differential Equations(if B- or better),MA 36200 - Topics In Vector Calculus,MA 36600 - Ordinary Differential Equations,MA 37500 - Introduction To Discrete MathematicsorMA 42800 - Introduction To Fourier AnalysisorMA 44200 - Honors Real Analysis IIorMA 45300 - Elements Of Algebra IorMA 45000 - Algebra HonorsOne of the following:STAT 51300 - Statistical Quality ControlorSTAT 51400 - Design Of ExperimentsorSTAT 42000 - Introduction To Time SeriesorIE 53000 - Quality ControlorCS 37300 - Data Mining And Machine Learning(Data Science majors only)
+MA 35100 - Elementary Linear AlgebraorMA 26500 - Linear Algebraif B- or better
+MA 35301 - Linear Algebra II
+STAT 35000 - Introduction To Statistics(satisfies Statistics Requirement for College of Science core)
+STAT 51200 - Applied Regression Analysis
+MA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis I
+MA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And Applications
+STAT 41700 - Statistical TheoryorSTAT 51700 - Statistical Inference
+MA 42500 - Elements Of Complex Analysis
+One of the following:MA 26600 - Ordinary Differential Equations(if B- or better),MA 36200 - Topics In Vector Calculus,MA 36600 - Ordinary Differential Equations,MA 37500 - Introduction To Discrete MathematicsorMA 42800 - Introduction To Fourier AnalysisorMA 44200 - Honors Real Analysis IIorMA 45300 - Elements Of Algebra IorMA 45000 - Algebra Honors
+One of the following:STAT 51300 - Statistical Quality ControlorSTAT 51400 - Design Of ExperimentsorSTAT 42000 - Introduction To Time SeriesorIE 53000 - Quality ControlorCS 37300 - Data Mining And Machine Learning(Data Science majors only)

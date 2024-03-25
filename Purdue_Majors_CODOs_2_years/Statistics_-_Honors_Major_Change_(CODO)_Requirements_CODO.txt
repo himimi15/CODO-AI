@@ -1,0 +1,38 @@
+General Requirements:
+Minimum Semesters:1
+Minimum Credits:12
+Minimum GPA:2.0
+
+Course Requirements:
+Option 1:A 2.0 or better GPA in at least two graded courses in the approved Calculus sequence I, II and III:
+
+Calculus I
+MA 16100 - Plane Analytic Geometry And Calculus Ior
+MA 16500 - Analytic Geometry And Calculus Ior
+MA 16010 - Applied Calculus IandMA 16020 - Applied Calculus II
+
+Calculus II
+MA 16200 - Plane Analytic Geometry And Calculus IIor
+MA 16600 - Analytic Geometry And Calculus II
+
+Calculus III
+MA 26100 - Multivariate Calculusor
+MA 27101 - Honors Multivariate Calculus
+
+Option 2:B- or better in the following:
+
+MA 41600 - Probabilityor
+STAT 41600 - Probability
+
+Other Requirements:
+Students are accepted for FALL, SPRING, and SUMMER
+Major is open with no anticipated space restrictions.
+Students must be in good academic standing (not on academic probation)
+2.5 GPA in any completed course (see below) that meets degree requirements (courses are not required to CODO):MA 35100 - Elementary Linear AlgebraMA 35301 - Linear Algebra IISTAT 51200 - Applied Regression AnalysisSTAT 35000 - Introduction To StatisticsorSTAT 35500 - Statistics For Data ScienceMA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis IMA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And ApplicationsSTAT 41700 - Statistical TheoryorSTAT 51700 - Statistical Inference
+MA 35100 - Elementary Linear Algebra
+MA 35301 - Linear Algebra II
+STAT 51200 - Applied Regression Analysis
+STAT 35000 - Introduction To StatisticsorSTAT 35500 - Statistics For Data Science
+MA 34100 - Foundations Of AnalysisorMA 44000 - Honors Real Analysis I
+MA 41600 - ProbabilityorSTAT 41600 - ProbabilityorSTAT 51600 - Basic Probability And Applications
+STAT 41700 - Statistical TheoryorSTAT 51700 - Statistical Inference
